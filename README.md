@@ -1,7 +1,7 @@
 # Quiz_App
 ### Language : JAVA
 ### Databse used : PostgreSQL(Pgadmin 4)
-### Framework : Spring
+### Framework : Spring Boot
 * Performing CRUD using 'POSTMAN'
 Details :
    - a quiz app having functionalities like adding questions to DB, 
